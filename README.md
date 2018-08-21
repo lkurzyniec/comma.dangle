@@ -11,3 +11,5 @@ Trailing commas in array and object literals are valid.
 * Easy conflict resolving
 
 ![Resolving conflict](http://kurzyniec.pl/wp-content/uploads/2018/08/comma-dangle-merge.png "Resolving conflict")
+
+## Share knowledge!
