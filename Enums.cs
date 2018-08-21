@@ -3,12 +3,14 @@ namespace comma.dangle
     public enum DarkColors
     {
         Charcoal,
-        Taupe
+        Taupe,
+        Ebony
     }
 
     public enum LightColors
     {
         Yellow,
         Green,
+        Orange,
     }
 }
